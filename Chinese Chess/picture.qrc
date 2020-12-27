@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/1.jpg</file>
+        <file>picture/gufeng.jpg</file>
+        <file>picture/jiang.jpg</file>
+        <file>picture/xiang.jpg</file>
+        <file>picture/multi.png</file>
+        <file>picture/single.png</file>
+        <file>picture/back.png</file>
+        <file>picture/back1.jpg</file>
+        <file>picture/timg.jpg</file>
+        <file>picture/begin.jpg</file>
+        <file>picture/begin1.jpg</file>
+        <file>picture/2.jpg</file>
+        <file>picture/3.jpg</file>
+        <file>picture/4.jpg</file>
+        <file>picture/5.jpg</file>
+        <file>picture/123.jpg</file>
+        <file>picture/chess.jpg</file>
+        <file>picture/timg (1).jpg</file>
+        <file>picture/summer.mp3</file>
+    </qresource>
+</RCC>
