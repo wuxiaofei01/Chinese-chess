@@ -1,1 +1,1 @@
-# XiaoFei-Wu
+# Visual Chinese Chess Based on QT
